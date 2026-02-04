@@ -1,2 +1,26 @@
-# security-analyst-portfolio
-Hands-on Security Analyst portfolio showcasing SIEM investigations, incident response, phishing analysis, endpoint security, and threat detection using real-world labs and case studies.
+# Security Analyst Portfolio
+
+This repository contains hands-on Security Analyst and SOC Analyst projects based on real-world scenarios.
+
+## Skills Demonstrated
+- Security Monitoring & Alert Analysis
+- SIEM (Microsoft Sentinel)
+- Incident Response & Investigation
+- Phishing & Email Security
+- Windows & Linux Log Analysis
+- Endpoint Security
+- MITRE ATT&CK Mapping
+- Security Documentation & Reporting
+
+## Tools & Platforms
+- Microsoft Sentinel
+- Microsoft Defender
+- TryHackMe
+- Azure
+- Windows Event Viewer
+- Linux Logs
+
+## Structure
+Each folder represents a specific Security Analyst skill area, with notes, labs, and case studies.
+
+This portfolio is actively updated as part of continuous learning.
