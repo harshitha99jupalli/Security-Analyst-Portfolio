@@ -29,4 +29,5 @@ This portfolio is actively updated as part of continuous learning.
 - ✅ Day 01: Cybersecurity basics + Security Analyst role overview
 - ✅ Day 02: OSI Model and networking basics
 - ✅ Day 03: TCP vs UDP and common ports
+- ✅ Day 04: DNS basics and security risks
 
