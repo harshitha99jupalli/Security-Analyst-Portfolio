@@ -39,3 +39,4 @@ This portfolio is actively updated as part of continuous learning.
 - ✅ Day 11: Incident Response lifecycle
 - ✅ Day 12: MITRE ATT&CK basics (tactics vs techniques)
 - ✅ Day 13: TryHackMe Intro to SOC completed
+- ✅ Day 14: First security investigation case study completed
