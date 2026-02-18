@@ -38,3 +38,4 @@ This portfolio is actively updated as part of continuous learning.
 - ✅ Day 10: Phishing basics and detection
 - ✅ Day 11: Incident Response lifecycle
 - ✅ Day 12: MITRE ATT&CK basics (tactics vs techniques)
+- ✅ Day 13: TryHackMe Intro to SOC completed
