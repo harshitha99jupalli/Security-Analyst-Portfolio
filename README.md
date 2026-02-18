@@ -37,3 +37,4 @@ This portfolio is actively updated as part of continuous learning.
 - ✅ Day 09: Malware basics (types, spread methods, prevention)
 - ✅ Day 10: Phishing basics and detection
 - ✅ Day 11: Incident Response lifecycle
+- ✅ Day 12: MITRE ATT&CK basics (tactics vs techniques)
